@@ -1,2 +1,2 @@
-# HackathonTeam6
-Repo for Hackathon Team 6: Team Name: aBit Private Limited
+# HackathonTeam05
+Repo for Hackathon Team 05: Team Name: aBit Private Limited
